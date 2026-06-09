@@ -18,9 +18,9 @@
 
 ## 🔗 Links do Projeto
 
-- 🔌 **Simulação Wokwi:** https://wokwi.com/projects/466208128232216577
-- 📹 **Vídeo explicativo:** [INSERIR LINK DO YOUTUBE]
-- 📄 **Relatório técnico:** disponível neste repositório
+- 🔌 **Simulação Wokwi:** [https://wokwi.com/projects/466208128232216577]
+- 📹 **Vídeo explicativo:** [https://www.canva.com/design/DAHMB-1-BUA/MGShLrv7glRTg1B3hdJhSQ/edit]
+- 📄 **Relatório técnico:** [https://docs.google.com/document/d/1SYhxWepQdwf5EM8MQxGJdt6_F-i2r5cIUpyMKob0uvo/edit?usp=sharing]
 
 ---
 
